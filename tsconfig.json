@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "module": "es6",
+    "target": "es5",
+    "sourceMap": true,
+    "strict": true,
+    "strictNullChecks": false,
+    "strictPropertyInitialization": false,
+    "moduleResolution": "node",
+    "lib": ["ES2015", "dom"]
+  },
+  "files": [
+    "./src/ts/index.ts",
+  ]
+}
