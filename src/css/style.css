@@ -161,3 +161,16 @@ th, td {
     right: 0;
   }
 }
+
+@media screen and (max-width: 420px) {
+  .create-container, .update-container {
+    flex-direction: column;
+    margin-bottom: 35px;
+  }
+  .generate-btn {
+    margin-top: 10px;
+  }
+  .popup-button {
+    right: 25px;
+  }
+}
