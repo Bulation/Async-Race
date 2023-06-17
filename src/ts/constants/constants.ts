@@ -1,6 +1,6 @@
 export const MAX_GARAGE_CARS_LIMIT = 7;
 export const MAX_WINNERS_CARS_LIMIT = 10;
-export const BASE_URL = 'https://rss-async-race.herokuapp.com/';
+export const BASE_URL = 'https://async-race-c7qc.onrender.com';
 export const MAX_HEX_NUMBER = 16777215;
 export const HEX = 16;
 export const COLOR_LENGTH = 6;
